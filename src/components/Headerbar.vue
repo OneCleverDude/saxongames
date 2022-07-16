@@ -1,5 +1,5 @@
 <template>
-    <div class="row">
+    <div class="row align-items-center">
         <div class="col-3">
             <img class="img-fluid" src="/img/lion.png" />
         </div>
